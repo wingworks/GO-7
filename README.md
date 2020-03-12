@@ -17,13 +17,13 @@ Version: 4
 
 ## Overview
 
-[Kite 3D front](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_front.png)
+![Kite 3D front](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_front.png)
 
-[Kite 3D right](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_right.png)
+![Kite 3D right](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_right.png)
 
-[Kite 3D flight](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_bottom.png)
+![Kite 3D flight](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_bottom.png)
 
-[Kite 3D perspective](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_perspective.png)
+![Kite 3D perspective](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_perspective.png)
 
 ## Details
 
