@@ -1,0 +1,41 @@
+# Kite: GO_7_v4 #
+  Sail area:                       7.19sqm
+  Aspect ratio:                    4.91
+  Wingspan (flat):                 5.94m
+  LE Segments:                     10
+  Hight:                           1.91m
+  Hight/ span:                      0.62
+  Wingspan (proj.):                3.07m
+  Sail area (proj.):               4.33sqm
+  Aspect ratio (proj.):            2.18
+  Created:                         2020-03-12
+
+## Bridle ##
+  Angle between front lines:     7.78
+
+  Towpoint
+    off-center:  85% -> 1.29m
+    backwards:   10% -> 0.16m
+    down:        115% -> 2.24m
+
+  First level - Fronttube (Center -> Tip)
+    Line 
+     Length: 0.867m
+    Line 
+     Length: 0.434m
+    Line 
+     Length: 0.573m
+    Line 
+     Length: 0.378m
+
+  Second level (Center -> Tip)
+    Line 
+     Length: 1.263m
+    Line 
+     Length: 0.455m
+    Line 
+     Length: 0.304m
+    Line 
+     Length: 20.108m
+
+  Length of all lines: 7.94m
