@@ -3,13 +3,21 @@ Freeride Kite GO in size 7sqm
 Version: 4
 
 Sail area:                       7.19sqm
+
 Aspect ratio:                    4.91
+
 Wingspan (flat):                 5.94m
+
 Wingspan (proj.):                3.07m
+
 Sail area (proj.):               4.33sqm
+
 Aspect ratio (proj.):            2.18
+
 Created:                         2020-03-12
+
 Author:                          Karsten Gaebert
+
 
 [GO_7_v4.kite](https://github.com/wingworks/GO-7/blob/master/GO_7_v4.kite)
 
