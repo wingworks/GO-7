@@ -13,7 +13,7 @@ Version: 4
 |Author|                          Karsten Gaebert|
 
 
-[Kite 3D](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_3d.jpg)
+[Kite Details](https://github.com/wingworks/GO-7/raw/master/GO_7_v4_3d.jpg)
 
 ## Overview
 
