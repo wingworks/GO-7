@@ -45,12 +45,13 @@
 
 ## DXF
 
-![Kite 3D preview](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_2d.jpg)
+![Kite dxf details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_2d.jpg)
 
-![Kite 3D preview](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_2d_tubes.jpg)
+![KKite dxf details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_2d_tubes.jpg)
 
-![Kite 3D preview](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_2d_sail.jpg)
+![Kite dxf details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_2d_sail.jpg)
 
+![Kite dxf details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_fabrics.jpg)
 
 ## Download
 
