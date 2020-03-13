@@ -1,6 +1,8 @@
 # Kite: GO_7_v4 #
 Freeride Kite GO in size 7sqm
-Version: 4
+
+![Kite GO](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4.jpg)
+
 |||
 |-|-|
 |Sail area|                       7.19sqm|
@@ -10,10 +12,12 @@ Version: 4
 |Sail area (proj.)|               4.33sqm| 
 |Aspect ratio (proj.)|            2.18|
 |Created|                         2020-03-12|  
+|Version|4|
 |Author|                          Karsten Gaebert|
 
+[more...](https://github.com/wingworks/GO-7/blob/master/GO_7_v4.kite)
 
-[Kite Details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4.jpg)
+
 
 ## Overview
 
@@ -50,13 +54,9 @@ Version: 4
 
 ## Download
 
-You can download the dxf files optimized for cnc plotter/cutters or standard printers.
+You can download the dxf files optimized for cnc [plotter/cutters](https://github.com/wingworks/GO-7/tree/master/plotter) or standard [printers]((https://github.com/wingworks/GO-7/tree/master/print).
 
-The plotter files are stored in the [plotter](https://github.com/wingworks/GO-7/tree/master/plotter) folder
-
-The printer files are stored in the [printer](https://github.com/wingworks/GO-7/tree/master/print) folder
-
-There is also a pdf plan ready to be printed in paper size A1 [GO_7_v4_all_print.pdf](https://github.com/wingworks/GO-7/blob/master/print/GO_7_v4_all_print.pdf)
+I also provided a pdf file ready to be printed on paper size A1 [GO_7_v4_all_print.pdf](https://github.com/wingworks/GO-7/blob/master/print/GO_7_v4_all_print.pdf)
 
 
 
