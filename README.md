@@ -1,5 +1,4 @@
-# Kite: GO_7_v4 #
-Freeride Kite GO in size 7sqm
+# Freeride Kite GO in size 7sqm
 
 ![Kite GO](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4.jpg)
 
@@ -14,8 +13,9 @@ Freeride Kite GO in size 7sqm
 |Created|                         2020-03-12|  
 |Version|4|
 |Author|                          Karsten Gaebert|
+|[more...](https://github.com/wingworks/GO-7/blob/master/GO_7_v4.kite)||
 
-[more...](https://github.com/wingworks/GO-7/blob/master/GO_7_v4.kite)
+
 
 
 
@@ -54,7 +54,7 @@ Freeride Kite GO in size 7sqm
 
 ## Download
 
-You can download the dxf files optimized for cnc [plotter/cutters](https://github.com/wingworks/GO-7/tree/master/plotter) or standard [printers]((https://github.com/wingworks/GO-7/tree/master/print).
+You can download the dxf files optimized for cnc [plotter/cutters](https://github.com/wingworks/GO-7/tree/master/plotter) or standard [printers](https://github.com/wingworks/GO-7/tree/master/print).
 
 I also provided a pdf file ready to be printed on paper size A1 [GO_7_v4_all_print.pdf](https://github.com/wingworks/GO-7/blob/master/print/GO_7_v4_all_print.pdf)
 
