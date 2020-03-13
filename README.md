@@ -13,7 +13,7 @@ Version: 4
 |Author|                          Karsten Gaebert|
 
 
-[Kite Details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_3d.jpg)
+[Kite Details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4.jpg)
 
 ## Overview
 
@@ -24,6 +24,8 @@ Version: 4
 ![Kite 3D flight](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_bottom.png)
 
 ![Kite 3D perspective](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_perspective.png)
+
+[Kite Details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_v4_3d.jpg)
 
 ## Details
 
