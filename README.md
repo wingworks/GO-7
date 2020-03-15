@@ -16,8 +16,17 @@
 |[more...](https://github.com/wingworks/GO-7/blob/master/GO_7_v4.kite)||
 
 
+## Download
 
+You can download the dxf files optimized for cnc [plotter/cutters](https://github.com/wingworks/GO-7/tree/master/plotter) or standard [printers](https://github.com/wingworks/GO-7/tree/master/print).
 
+I also provided a pdf file ready to be printed on paper size A1 [GO_7_v4_all_print.pdf](https://github.com/wingworks/GO-7/blob/master/print/GO_7_v4_all_print.pdf)
+
+## Support
+
+If you appreciate my open sourced kite plans and you wish to help the project to grow I'm grateful for any donations through PayPal via my [website](http://www.wingworks.de/downloads/) 
+
+Thanks for your support!
 
 ## Overview
 
@@ -53,16 +62,6 @@
 
 ![Kite dxf details](https://github.com/wingworks/GO-7/raw/master/images/GO_7_fabrics.jpg)
 
-## Download
 
-You can download the dxf files optimized for cnc [plotter/cutters](https://github.com/wingworks/GO-7/tree/master/plotter) or standard [printers](https://github.com/wingworks/GO-7/tree/master/print).
-
-I also provided a pdf file ready to be printed on paper size A1 [GO_7_v4_all_print.pdf](https://github.com/wingworks/GO-7/blob/master/print/GO_7_v4_all_print.pdf)
-
-## Support
-
-If you appreciate my open sourced kite plans and you wish to help the project to grow I'm grateful for any donations through PayPal via my [website](http://www.wingworks.de/downloads/) 
-
-Thanks for your support!
 
 
