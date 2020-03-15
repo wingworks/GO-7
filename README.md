@@ -59,5 +59,10 @@ You can download the dxf files optimized for cnc [plotter/cutters](https://githu
 
 I also provided a pdf file ready to be printed on paper size A1 [GO_7_v4_all_print.pdf](https://github.com/wingworks/GO-7/blob/master/print/GO_7_v4_all_print.pdf)
 
+## Support
+
+If you appreciate my open sourced kite plans and you wish to help the project to grow I'm grateful for any donations through PayPal via my [website](http://www.wingworks.de/downloads/) 
+
+Thanks for your support!
 
 
